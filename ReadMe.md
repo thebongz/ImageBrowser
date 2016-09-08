@@ -1,18 +1,1 @@
-# ImageBrowser
-
-## Description
-
-This sample demonstrates the ImageKit’s IKImageBrowserView in a basic Cocoa application. It uses Interface Builder to create a window an ImageBrowser and a zoom slider. This sample should present a reasonably complete correctly formed Cocoa application which can be used as a starting point. 
-
-## Requirements
-
-### Build
-
-OS X 10.11 SDK or later
-
-### Runtime
-
-OS X 10.10 SDK or later
-
-
-Copyright (C) 2006-2016 Apple Inc. All rights reserved.
+﻿⌠䥭慧敂牯睳敲ਊ⌣⁄敳捲楰瑩潮ਊ周楳⁳慭灬攠摥浯湳瑲慴敳⁴桥⁉浡来䭩瓢肙猠䥋䥭慧敂牯睳敲噩敷⁩渠愠扡獩挠䍯捯愠慰灬楣慴楯渮⁉琠畳敳⁉湴敲晡捥⁂畩汤敲⁴漠捲敡瑥⁡⁷楮摯眠慮⁉浡来䉲潷獥爠慮搠愠穯潭⁳汩摥爮⁔桩猠獡浰汥⁳桯畬搠灲敳敮琠愠牥慳潮慢汹⁣潭灬整攠捯牲散瑬礠景牭敤⁃潣潡⁡灰汩捡瑩潮⁷桩捨⁣慮⁢攠畳敤⁡猠愠獴慲瑩湧⁰潩湴⸠ਊ⌣⁒敱畩牥浥湴猊ਣ⌣⁂畩汤ਊ体⁘‱〮ㄱ⁓䑋⁯爠污瑥爊ਣ⌣⁒畮瑩浥ਊ体⁘‱〮㄰⁓䑋⁯爠污瑥爊ਊ䍯灹物杨琠⡃⤠㈰〶ⴲ〱㘠䅰灬攠䥮挮⁁汬⁲楧桴猠牥獥牶敤⸊
